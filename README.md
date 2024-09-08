@@ -1,9 +1,12 @@
 # Hello I am Kripa! 👋
 
+## Data Analyst Aspirant
+
+📍 Banglore Karnataka
+Email: kripagoyal8112@gmail.com
+
 <!--
 **Kripa-Goyal/Kripa-Goyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Data Analyst Aspirant
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
